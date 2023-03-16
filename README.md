@@ -12,4 +12,4 @@ In the project directory, you can run:
 
 ### `react-native start` starts Metro Bundler.
 
-Press a to run the app on android
+Press `a` to run the app on android
